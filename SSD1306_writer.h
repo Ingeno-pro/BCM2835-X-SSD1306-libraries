@@ -11,15 +11,15 @@
 
 #define SMALL_CHAR_HEIGHT 8
 #define SMALL_CHAR_WIDTH 4
-#define SMALL_CHAR_SHEET_PATH "res/img/smallChar.png"
+#define SMALL_CHAR_SHEET_PATH "smallChar.png"
 
 #define MEDIUM_CHAR_HEIGHT 16
 #define MEDIUM_CHAR_WIDTH 8
-#define MEDIUM_CHAR_SHEET_PATH "res/img/mediumChar.png"
+#define MEDIUM_CHAR_SHEET_PATH "mediumChar.png"
 
 #define LARGE_CHAR_HEIGHT 24
 #define LARGE_CHAR_WIDTH 12
-#define LARGE_CHAR_SHEET_PATH "res/img/largeChar.png"
+#define LARGE_CHAR_SHEET_PATH "largeChar.png"
 
 
 #define LITTLE 0
