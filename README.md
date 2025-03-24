@@ -33,4 +33,3 @@ The SSD1306_writer files allow you to easly write text on the screen.
 10/12/2024 : Publish the library
 
 Please, if you have any suggest/question contact me on contact@ingeno.fr
-question contact me on contact@ingeno.fr
