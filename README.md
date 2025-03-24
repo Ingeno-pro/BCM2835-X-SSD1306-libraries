@@ -25,7 +25,6 @@ Indeed, these two files give a higher level programming to control the SSD1306.
 However, if you want to do a specific usage of your display, you can use these files to build your own solution.  
 
 The SSD1306_writer files allow you to easly write text on the screen.  
-----  
 
 ## Changelog 
 
