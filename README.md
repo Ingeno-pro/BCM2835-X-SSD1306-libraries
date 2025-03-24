@@ -29,7 +29,7 @@ The SSD1306_writer files allow you to easly write text on the screen.
 
 ## Changelog 
 
-24/03/2025 : Create the readme.md
-10/12/2024 : Publish the library
+24/03/2025 : Create the readme.md  
+10/12/2024 : Publish the library  
 
 Please, if you have any suggest/question contact me on contact@ingeno.fr
